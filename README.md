@@ -1,4 +1,5 @@
 # Gemini Email Subject Generator MCP
+[![smithery badge](https://smithery.ai/badge/@falahgs/gemini-email-subject-generator-mcp)](https://smithery.ai/server/@falahgs/gemini-email-subject-generator-mcp)
 
 A powerful Model Context Protocol (MCP) server that leverages Google's Gemini Flash 2 AI model to generate engaging email subjects and detailed thinking processes. This tool integrates seamlessly with Claude Desktop to provide intelligent email subject generation and advanced content creation.
 
@@ -30,6 +31,14 @@ A powerful Model Context Protocol (MCP) server that leverages Google's Gemini Fl
 - Claude Desktop
 - Google Gemini API Key
 - SMTP Email Account (for email functionality)
+
+### Installing via Smithery
+
+To install gemini-email-subject-generator-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@falahgs/gemini-email-subject-generator-mcp):
+
+```bash
+npx -y @smithery/cli install @falahgs/gemini-email-subject-generator-mcp --client claude
+```
 
 ### Installation
 
